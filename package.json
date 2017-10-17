@@ -1,0 +1,12 @@
+{
+    "name": "luminescenceaudio",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Prawat Laosomboon",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.2"
+    }
+}
